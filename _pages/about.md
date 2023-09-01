@@ -15,7 +15,7 @@ Education
 
 | Year | Education |
 | :------ | :------ | 
-| *08.2022-present* | M.Eng., Department of Computer Science and Technology, Tsinghua University, China. |
+| *08.2022-present* | M.S., Department of Computer Science and Technology, Tsinghua University, China. |
 | *08.2018-06.2022* | B.Eng., Department of Biomedical Engineering, Tsinghua University, China. |
 
 Publications
