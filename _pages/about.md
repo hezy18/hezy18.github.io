@@ -29,7 +29,7 @@ Publications
 | **Towards Ubiquitous Personalized Music Recommendation with Smart Bracelets.**|   
 | :------ |   
 | Jiayu Li, ***Zhiyu He***, Yumeng Cui, Chenyang Wang, Chong Chen, Chun Yu, Min Zhang, Yiqun Liu, Shaoping Ma. |  
-| Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp 2022). [Preprint Version](https://dl.acm.org/doi/pdf/10.1145/3550333)|  
+| Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2022). [Preprint Version](https://dl.acm.org/doi/pdf/10.1145/3550333)|  
 
 | **THUIR-LL at the NTCIR-16 Lifelog-4 Task: Enhanced Interactive Lifelog Search Engine.**|   
 | :------ |   
