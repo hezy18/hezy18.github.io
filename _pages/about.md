@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Master's student in [THUIR](http://ai.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. Before joining THU, I received the B.Eng.(2022) in Tsinghua University. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/). My major research interests are about information retrieval, recommendation, user modeling, etc.
+I am now a Master's student in [THUIR](http://ai.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/). My major research interests are about information retrieval, recommendation, user modeling, etc.
 
 Education
 ======
