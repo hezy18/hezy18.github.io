@@ -24,7 +24,7 @@ Publications
 | **Understanding User Immersion in Online Short Video Interaction.**|   
 | :------ |   
 | ***Zhiyu He***, Shaorun Zhang, Peijie Sun, Jiayu Li, Xiaohui Xie, Min Zhang and Yiqun Liu. |  
-| 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). |  
+| 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/CIKM2023He.pdf)|  
 
 | **Towards Ubiquitous Personalized Music Recommendation with Smart Bracelets.**|   
 | :------ |   
