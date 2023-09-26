@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Master's student in [THUIR](http://ai.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/). My major research interests are about information retrieval, recommendation, user modeling, etc.
+I am a Master's student in [THUIR](http://ai.thuir.cn/), Department of Computer Science and Technology at Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/). My major research interests are information retrieval, recommendation, user modeling, etc.
 
 Education
 ======
@@ -23,23 +23,38 @@ Publications
 
 | **Understanding User Immersion in Online Short Video Interaction.**|   
 | :------ |   
-| ***Zhiyu He***, Shaorun Zhang, Peijie Sun, Jiayu Li, Xiaohui Xie, Min Zhang and Yiqun Liu. |  
-| 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/CIKM2023He.pdf)|  
+| ***Zhiyu He***, Shaorun Zhang, Peijie Sun, Jiayu Li, Xiaohui Xie, Min Zhang, Yiqun Liu. |  
+| 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/CIKM2023He.pdf)|
+
+| **Estimating Rare Disease Incidences With Large-scale Internet Search Data: Development and Evaluation of a Two-step Machine Learning Method.**|   
+| :------ |   
+| Jiayu Li, ***Zhiyu He***, Min Zhang, Weizhi Ma, Ye Jin, Lei Zhang, Shuyang Zhang, Yiqun Liu, Shaoping Ma. |  
+| JMIR Infodemiology. [Link](https://infodemiology.jmir.org/2023/1/e42721/)|  
+
+| **Epidemiological research on rare diseases using large-scale online search queries and reported case data.**|   
+| :------ |   
+| Lei Zhang, Ye Jin, Jiayu Li, ***Zhiyu He***, Dingding Zhang, Min Zhang, Shuyang Zhang. |  
+| Orphanet Journal of Rare Diseases. [Link](https://link.springer.com/article/10.1186/s13023-023-02839-7)|
 
 | **Towards Ubiquitous Personalized Music Recommendation with Smart Bracelets.**|   
 | :------ |   
 | Jiayu Li, ***Zhiyu He***, Yumeng Cui, Chenyang Wang, Chong Chen, Chun Yu, Min Zhang, Yiqun Liu, Shaoping Ma. |  
-| Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2022). [Preprint Version](https://dl.acm.org/doi/pdf/10.1145/3550333)|  
+| Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2022). [Link](https://dl.acm.org/doi/pdf/10.1145/3550333)|  
 
 | **THUIR-LL at the NTCIR-16 Lifelog-4 Task: Enhanced Interactive Lifelog Search Engine.**|   
 | :------ |   
 | ***Zhiyu He***, Jiayu Li, Wenjing Wu, Min Zhang, Yiqun Liu, Shaoping Ma. |  
-| 16th NTCIR Conference on Evaluation of Information Access Technologies. [Preprint Version](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/02-NTCIR16-LIFELOG-HeZ.pdf)| 
+| 16th NTCIR Conference on Evaluation of Information Access Technologies. [Link](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/02-NTCIR16-LIFELOG-HeZ.pdf)| 
 
 | **Liferec: A mobile app for lifelog recording and ubiquitous recommendation.**|   
 | :------ |   
 | Jiayu Li, Hantian Zhang, ***Zhiyu He***, Rongwu Xu, Pingfei Wu, Min Zhang, Yiqun Liu, Shaoping Ma. |  
-| ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR 2022). [Preprint Version](https://drive.google.com/file/d/1UiaYXI8wqwJTX_M398c0gPkJQIEsLBHR/view)| 
+| Proceedings of the 2022 Conference on Human Information Interaction and Retrieval (CHIIR 2022). [Link](https://dl.acm.org/doi/abs/10.1145/3498366.3505837)| 
+
+| **Introducing EEG Analyses to Help Personal Music Preference Prediction.**|   
+| :------ |   
+| Zhiyu He, Jiayu Li, Weizhi Ma, Min Zhang, Yiqun Liu, Shaoping Ma. |  
+| 第十八届全国人机交互学术会议 (CHCI 2022). | 
 
 More
 ======  
