@@ -24,7 +24,7 @@ Publications
 | **Understanding User Immersion in Online Short Video Interaction.**|   
 | :------ |   
 | ***Zhiyu He***, Shaorun Zhang, Peijie Sun, Jiayu Li, Xiaohui Xie, Min Zhang, Yiqun Liu. |  
-| 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/CIKM2023He.pdf)|
+| 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023). [Link](https://doi.org/10.1145/3583780.3615099)|
 
 | **Estimating Rare Disease Incidences With Large-scale Internet Search Data: Development and Evaluation of a Two-step Machine Learning Method.**|   
 | :------ |   
