@@ -23,7 +23,7 @@ Publications
 
 | **EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation** [Link](https://arxiv.org/pdf/2404.01008)|   
 | :------ |   
-| Shaorun Zhang<sup>*</sup>, ***Zhiyu He<sup>*</sup>***, Ziyi Ye, Peijie Sun, Qingyao Ai, Min Zhang, Yiqun Liu. |  
+| Shaorun Zhang<sup>\*</sup>, ***Zhiyu He<sup>\*</sup>***, Ziyi Ye, Peijie Sun, Qingyao Ai, Min Zhang, Yiqun Liu. |  
 | Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024). |
 
 | **SiTunes: A Situational Music Recommendation Dataset with Physiological and Psychological Signals** [Link](https://dl.acm.org/doi/abs/10.1145/3627508.3638343)|   
