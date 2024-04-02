@@ -21,12 +21,12 @@ Education
 Publications
 ======
 
-| **EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation** [Link](https://arxiv.org/pdf/2404.01008)|   
+| **EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation.** [Link](https://arxiv.org/pdf/2404.01008)|   
 | :------ |   
 | Shaorun Zhang<sup>\*</sup>, ***Zhiyu He<sup>\*</sup>***, Ziyi Ye, Peijie Sun, Qingyao Ai, Min Zhang, Yiqun Liu. |  
 | Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024). |
 
-| **SiTunes: A Situational Music Recommendation Dataset with Physiological and Psychological Signals** [Link](https://dl.acm.org/doi/abs/10.1145/3627508.3638343)|   
+| **SiTunes: A Situational Music Recommendation Dataset with Physiological and Psychological Signals.** [Link](https://dl.acm.org/doi/abs/10.1145/3627508.3638343)|   
 | :------ |   
 | Vadim Grigorev, Jiayu Li, Weizhi Ma, ***Zhiyu He***, Min Zhang, Yiqun Liu, Ming Yan, Ji Zhang. |  
 | Proceedings of the 2024 ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR 2024). |
