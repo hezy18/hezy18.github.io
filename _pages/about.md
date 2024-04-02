@@ -63,7 +63,7 @@ Publications
 
 | **Introducing EEG Analyses to Help Personal Music Preference Prediction.**|   
 | :------ |   
-| Zhiyu He, Jiayu Li, Weizhi Ma, Min Zhang, Yiqun Liu, Shaoping Ma. |  
+| ***Zhiyu He***, Jiayu Li, Weizhi Ma, Min Zhang, Yiqun Liu, Shaoping Ma. |  
 | 第十八届全国人机交互学术会议 (CHCI 2022). | 
 
 More
