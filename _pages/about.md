@@ -61,7 +61,7 @@ Publications
 | Jiayu Li, Hantian Zhang, ***Zhiyu He***, Rongwu Xu, Pingfei Wu, Min Zhang, Yiqun Liu, Shaoping Ma. |  
 | Proceedings of the 2022 Conference on Human Information Interaction and Retrieval (CHIIR 2022). | 
 
-| **Introducing EEG Analyses to Help Personal Music Preference Prediction.**|   
+| **Introducing EEG Analyses to Help Personal Music Preference Prediction.** [Link](https://arxiv.org/abs/2404.15753)|   
 | :------ |   
 | ***Zhiyu He***, Jiayu Li, Weizhi Ma, Min Zhang, Yiqun Liu, Shaoping Ma. |  
 | 第十八届全国人机交互学术会议 (CHCI 2022). | 
