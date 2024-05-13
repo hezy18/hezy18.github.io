@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Master's student in [THUIR](http://ai.thuir.cn/), Department of Computer Science and Technology at Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/). My major research interests are information retrieval, recommendation, user modeling, etc.
 
-I also served as a reviewer / PC member for KDD and UbiComp.
+I also served as a reviewer / PC member for KDD and UbiComp. I'm the T.A. of the undergraduate course "Introduction to Machine Learning."
 
 Education
 ======
