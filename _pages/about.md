@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Master's student in [THUIR](http://ai.thuir.cn/), Department of Computer Science and Technology at Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/). My major research interests are information retrieval, recommendation, user modeling, etc.
 
+I also served as a reviewer / PC member for KDD and UbiComp.
+
 Education
 ======
 
@@ -66,7 +68,13 @@ Publications
 | ***Zhiyu He***, Jiayu Li, Weizhi Ma, Min Zhang, Yiqun Liu, Shaoping Ma. |  
 | 第十八届全国人机交互学术会议 (CHCI 2022). | 
 
+Competitions
+======
+
+We won the 1st place in the NTCIR-16 Lifelog Retrieval Task. [Working Notes](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/02-NTCIR16-LIFELOG-HeZ.pdf).
+
 More
 ======  
+
 My hobbies mainly focus on classic music, Genshin Impact, and table tennis.  
 Happy every day! 
