@@ -22,8 +22,12 @@ Education
 
 Publications
 ======
+| **ReChorus2. 0: A Modular and Task-Flexible Recommendation Library.** [Link](https://arxiv.org/abs/2405.18058)|   
+| :------ |   
+| Jiayu Li, Hanyu Li, ***Zhiyu He***, Weizhi Ma, Peijie Sun, Min Zhang, Shaoping Ma. |  
+| Proceedings of the 18th ACM Conference on Recommender Systems (RecSys 2024). |
 
-| **EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation.** [Link](https://arxiv.org/pdf/2404.01008)|   
+| **EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation.** [Link](https://dl.acm.org/doi/abs/10.1145/3626772.3657890)|   
 | :------ |   
 | Shaorun Zhang<sup>1</sup>, ***Zhiyu He***<sup>1</sup>, Ziyi Ye, Peijie Sun, Qingyao Ai, Min Zhang, Yiqun Liu. |  
 | Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024). |
