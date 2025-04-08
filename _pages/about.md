@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Master's student in [THUIR](http://ai.thuir.cn/), Department of Computer Science and Technology at Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang/). My primary research interests are information retrieval, recommendation, user modeling, etc.
 
-I was a reviewer for KDD'24 and a PC Member for the UbiComp'24 workshop and WWW'24. I'm the T.A. of the undergraduate course "Introduction to Machine Learning."
+I was a reviewer for KDD'24 and a PC Member for the UbiComp'24 workshop and WWW'25. I'm the T.A. of the Tsinghua's undergraduate course "Introduction to Machine Learning."
 
 Education
 ======
@@ -22,6 +22,11 @@ Education
 
 Publications
 ======
+
+| **Short Video Segment-level User Interests Modeling in Personalized Recommendation.** [Github Link](https://github.com/hezy18/SegMMInterest), [Arxiv Link](https://arxiv.org/abs/2504.04237)|   
+| :------ |   
+| ***Zhiyu He***, Zhixin Ling, Jiayu Li, Zhiqiang Guo, Weizhi Ma, Xinchen Luo, Min Zhang, Guorui Zhou. |  
+| Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025). |
 
 | **ReChorus2. 0: A Modular and Task-Flexible Recommendation Library.** [Link](https://arxiv.org/abs/2405.18058)|   
 | :------ |   
