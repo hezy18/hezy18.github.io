@@ -92,5 +92,6 @@ More
 ======  
 
 My hobbies mainly focus on classical music, Genshin Impact, and table tennis.  
-Happy every day! 
+
+Be brave, and start. 
 
