@@ -78,10 +78,15 @@ Publications
 | ***Zhiyu He***, Jiayu Li, Weizhi Ma, Min Zhang, Yiqun Liu, Shaoping Ma. |  
 | 第十八届全国人机交互学术会议 (CHCI 2022). | 
 
-Competitions
+Honers and Awards
 ======
-
-We won the 1st place in the NTCIR-16 Lifelog Retrieval Task. [Working Notes](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/02-NTCIR16-LIFELOG-HeZ.pdf).
+* Scholarship
+  Tsinghua University Comprehensive Scholarship (First-Class) \hfill {Dec. 2024}
+  Tsinghua University Artistic Excellence Scholarship \hfill {Oct. 2019, Oct. 2023}
+  Tsinghua University Social Work Scholarship \hfill {Oct. 2022}
+  
+* NTCIR-16 Evaluation Campaign
+  We won the 1st place in the NTCIR-16 Lifelog Retrieval Task. [Working Notes](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/02-NTCIR16-LIFELOG-HeZ.pdf).
 
 More
 ======  
