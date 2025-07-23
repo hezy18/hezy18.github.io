@@ -80,13 +80,11 @@ Publications
 
 Honers and Awards
 ======
-* Scholarship
+* Tsinghua University Comprehensive Scholarship (First-Class) (Dec. 2024)
   
-  Tsinghua University Comprehensive Scholarship (First-Class) (Dec. 2024)
+* Tsinghua University Artistic Excellence Scholarship (Oct. 2019, Oct. 2023)
   
-  Tsinghua University Artistic Excellence Scholarship (Oct. 2019, Oct. 2023)
-  
-  Tsinghua University Social Work Scholarship (Oct. 2022)
+* Tsinghua University Social Work Scholarship (Oct. 2022)
   
 * NTCIR-16 Evaluation Campaign
   
