@@ -86,9 +86,7 @@ Honers and Awards
   
 * Tsinghua University Social Work Scholarship (Oct. 2022)
   
-* NTCIR-16 Evaluation Campaign
-  
-  We won the 1st place in the NTCIR-16 Lifelog Retrieval Task. [Working Notes](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/02-NTCIR16-LIFELOG-HeZ.pdf).
+* NTCIR-16 Evaluation Campaign: 1st place in the NTCIR-16 Lifelog Retrieval Task. [Working Notes](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/02-NTCIR16-LIFELOG-HeZ.pdf).
 
 More
 ======  
