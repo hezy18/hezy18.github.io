@@ -22,7 +22,8 @@ Education
 
 Publications
 ======
-| **User Immersion-aware Short Video Recommendation.** [Paper](https://dl.acm.org/doi/10.1145/3748303)
+
+| **User Immersion-aware Short Video Recommendation.** [Paper](https://dl.acm.org/doi/10.1145/3748303)| 
 | :------ |   
 | ***Zhiyu He***, Shaorun Zhang, Weizhi Ma, Jiayu Li, Peijie Sun, Qingyao Ai, Yiqun Liu, Min Zhang. |  
 | ACM Transactions on Information Systems (TOIS, CCF-A). |
