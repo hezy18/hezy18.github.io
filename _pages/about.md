@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in [THUIR](http://ai.thuir.cn/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is [Prof. Min Zhang](http://www.thuir.cn/group/~mzhang/). My primary research interests are about recommendation, user modeling, multimodal, etc.
+I am currently a Ph.D. candidate in [THUIR](http://ai.thuir.cn/), Department of Computer Science and Technology at Tsinghua University, Beijing, China. My supervisor is [Prof. Min Zhang](http://www.thuir.cn/group/~mzhang/). My primary research interests include recommender systems, user modeling, multimodal, etc.
 
 I served as a reviewer for KDD'24 and a PC Member for the UbiComp'24 workshop and WWW'25 workshop. I'm the T.A. of Tsinghua's undergraduate course "Introduction to Machine Learning."
 
@@ -22,13 +22,17 @@ Education
 
 Publications
 ======
+| **User Immersion-aware Short Video Recommendation.** [Paper](https://dl.acm.org/doi/10.1145/3748303)
+| :------ |   
+| ***Zhiyu He***, Shaorun Zhang, Weizhi Ma, Jiayu Li, Peijie Sun, Qingyao Ai, Yiqun Liu, Min Zhang. |  
+| ACM Transactions on Information Systems (TOIS, CCF-A). |
 
 | **Short Video Segment-level User Interests Modeling in Personalized Recommendation.** [Paper](https://dl.acm.org/doi/abs/10.1145/3726302.3730083), [Code](https://github.com/hezy18/SegMMInterest)|   
 | :------ |   
 | ***Zhiyu He***, Zhixin Ling, Jiayu Li, Zhiqiang Guo, Weizhi Ma, Xinchen Luo, Min Zhang, Guorui Zhou. |  
 | Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025 full paper, CCF-A). |
 
-| **ReChorus2. 0: A Modular and Task-Flexible Recommendation Library.** [Paper](https://arxiv.org/abs/2405.18058), [Code](https://github.com/THUwangcy/ReChorus)|   
+| **ReChorus2. 0: A Modular and Task-Flexible Recommendation Library.** [Paper](https://dl.acm.org/doi/10.1145/3640457.3688076), [Code](https://github.com/THUwangcy/ReChorus)|   
 | :------ |   
 | Jiayu Li, Hanyu Li, ***Zhiyu He***, Weizhi Ma, Peijie Sun, Min Zhang, Shaoping Ma. |  
 | Proceedings of the 18th ACM Conference on Recommender Systems (RecSys 2024, CCF-B). |
