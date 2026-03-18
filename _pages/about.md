@@ -85,7 +85,7 @@ Publications
 
 Honers and Awards
 ======
-* Tsinghua University Comprehensive Scholarship (First-Class) (Dec. 2024)
+* Tsinghua University Comprehensive Scholarship (First-Class) (Dec. 2024, 2025)
   
 * Tsinghua University Artistic Excellence Scholarship (Oct. 2019, Oct. 2023)
   
