@@ -98,5 +98,5 @@ More
 
 My hobbies mainly focus on classical music, Genshin Impact, and table tennis.  
 
-To be brave, to start, to enjoy.  
+To be brave, to start, to persist, to enjoy.  
 
